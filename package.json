@@ -1,0 +1,17 @@
+{
+  "name": "play-middleware",
+  "version": "0.1.0",
+  "description": "PUG, LESS, Rollup and express' static middleware.",
+  "main": "play-middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Audi Nugraha <audinue@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta3",
+    "less": "^2.7.1",
+    "rollup": "^0.33.0"
+  }
+}
